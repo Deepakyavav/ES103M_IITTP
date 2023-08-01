@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web_file",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. # ES103M ## Introduction to programming"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#introduction-to-programming",
+    "href": "index.html#introduction-to-programming",
+    "title": "ES103M : IITTP",
+    "section": "Introduction to programming",
+    "text": "Introduction to programming\nThis course is an introduction to the basics of programming."
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "ES103M : IITTP",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of this course, you will be able to:\n\nWrite simple programs in a c or c++ programming language .\nUnderstand the basic concepts of programming, such as variables, data types, control flow, and functions.\nApply programming concepts to solve problems.\nDeveloping problem solving skills\n\n\n\n\nIntroduction to Programming\n\n\n\n\n\nCourse number\nES103M\n\n\nStructure of credits\n2-0-3-4\n\n\nOffered to\nUG\n\n\nTo be offered by\nDepartment of Computer Science and Engineering\n\n\nTo take effect from\nSept 2023\n\n\nPrerequisite\nNil\n\n\n\nThis is a ES103M website.\nTo learn more visit Institute course websites https://www.iittp.ac.in/academics/syllabus # ES103M ## Introduction to programming"
+  }
+]
